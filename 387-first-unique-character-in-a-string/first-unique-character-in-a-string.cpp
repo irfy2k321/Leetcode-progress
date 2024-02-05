@@ -1,21 +1,17 @@
 class Solution {
 public:
-#include <string>
-#include <unordered_map>
-
-int firstUniqChar(std::string s) {
-    std::unordered_map<char, int> frequency;
-
-    for (char c : s) {
-        frequency[c]++;
-    }
-
-    for (int i = 0; i < s.size(); i++) {
-        if (frequency[s[i]] == 1) {
-            return i;
+    int firstUniqChar(string s) {
+        vector<int> fo(26);
+        for(auto i:s){
+            fo[i-'a']++;
         }
-    }
+        int i=0;
+        int n=s.size();
+        while(i<n){
+            if(fo[s[i]-'a']==1) return i;
 
-    return -1;
-}
+            i++;
+        }
+        return -1;
+    }
 };
