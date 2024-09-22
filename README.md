@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/irfy2k321/Leetcode-progress/tree/master/0020-valid-parentheses) |
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/irfy2k321/Leetcode-progress/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/irfy2k321/Leetcode-progress/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/irfy2k321/Leetcode-progress/tree/master/0020-valid-parentheses) |
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/irfy2k321/Leetcode-progress/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2389-design-a-text-editor](https://github.com/irfy2k321/Leetcode-progress/tree/master/2389-design-a-text-editor) |
