@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/irfy2k321/Leetcode-progress/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/irfy2k321/Leetcode-progress/tree/master/0032-longest-valid-parentheses) |
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/irfy2k321/Leetcode-progress/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/irfy2k321/Leetcode-progress/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/irfy2k321/Leetcode-progress/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/irfy2k321/Leetcode-progress/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/irfy2k321/Leetcode-progress/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/irfy2k321/Leetcode-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/irfy2k321/Leetcode-progress/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
