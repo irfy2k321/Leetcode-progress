@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/irfy2k321/Leetcode-progress/tree/master/0002-add-two-numbers) |
 | [2389-design-a-text-editor](https://github.com/irfy2k321/Leetcode-progress/tree/master/2389-design-a-text-editor) |
 ## Design
 |  |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-design-a-text-editor](https://github.com/irfy2k321/Leetcode-progress/tree/master/2389-design-a-text-editor) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/irfy2k321/Leetcode-progress/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/irfy2k321/Leetcode-progress/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
