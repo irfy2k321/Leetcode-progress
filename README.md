@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/irfy2k321/Leetcode-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/irfy2k321/Leetcode-progress/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [2389-design-a-text-editor](https://github.com/irfy2k321/Leetcode-progress/tree/master/2389-design-a-text-editor) |
 ## Design
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/irfy2k321/Leetcode-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/irfy2k321/Leetcode-progress/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
