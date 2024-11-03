@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
+| [0933-increasing-order-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0933-increasing-order-search-tree) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/irfy2k321/Leetcode-progress/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2389-design-a-text-editor](https://github.com/irfy2k321/Leetcode-progress/tree/master/2389-design-a-text-editor) |
 | [2846-robot-collisions](https://github.com/irfy2k321/Leetcode-progress/tree/master/2846-robot-collisions) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0933-increasing-order-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/irfy2k321/Leetcode-progress/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0933-increasing-order-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/irfy2k321/Leetcode-progress/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0933-increasing-order-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0933-increasing-order-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/irfy2k321/Leetcode-progress/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
