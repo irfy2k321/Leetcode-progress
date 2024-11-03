@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/irfy2k321/Leetcode-progress/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/irfy2k321/Leetcode-progress/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/irfy2k321/Leetcode-progress/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/irfy2k321/Leetcode-progress/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/irfy2k321/Leetcode-progress/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
