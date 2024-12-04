@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/irfy2k321/Leetcode-progress/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/irfy2k321/Leetcode-progress/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2389-design-a-text-editor](https://github.com/irfy2k321/Leetcode-progress/tree/master/2389-design-a-text-editor) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/irfy2k321/Leetcode-progress/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/irfy2k321/Leetcode-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/irfy2k321/Leetcode-progress/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Dynamic Programming
 |  |
 | ------- |
