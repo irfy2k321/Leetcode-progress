@@ -3,13 +3,14 @@ public:
     long long findScore(vector<int>& nums) {
         int n = nums.size();
         vector<bool> marked(n, false);
-        vector<pair<int, int>> sorted;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
         for (int i = 0; i < n; ++i) {
-            sorted.push_back({nums[i], i});
+            pq.push({nums[i], i});
         }
-        sort(sorted.begin(), sorted.end());
         long long score = 0;
-        for (auto& [value, index] : sorted) {
+        while (!pq.empty()) {
+            auto [value, index] = pq.top();
+            pq.pop();
             if (!marked[index]) {
                 score += value;
                 marked[index] = true;
