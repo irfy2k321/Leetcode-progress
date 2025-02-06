@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/irfy2k321/Leetcode-progress/tree/master/0169-majority-element) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
+| [1364-tuple-with-same-product](https://github.com/irfy2k321/Leetcode-progress/tree/master/1364-tuple-with-same-product) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/irfy2k321/Leetcode-progress/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/irfy2k321/Leetcode-progress/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/irfy2k321/Leetcode-progress/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/irfy2k321/Leetcode-progress/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
+| [1364-tuple-with-same-product](https://github.com/irfy2k321/Leetcode-progress/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/irfy2k321/Leetcode-progress/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/irfy2k321/Leetcode-progress/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/irfy2k321/Leetcode-progress/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/irfy2k321/Leetcode-progress/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/irfy2k321/Leetcode-progress/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/irfy2k321/Leetcode-progress/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sliding Window
 |  |
