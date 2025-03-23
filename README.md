@@ -246,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/irfy2k321/Leetcode-progress/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/irfy2k321/Leetcode-progress/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
