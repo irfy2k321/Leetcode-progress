@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/irfy2k321/Leetcode-progress/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irfy2k321/Leetcode-progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/irfy2k321/Leetcode-progress/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/irfy2k321/Leetcode-progress/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/irfy2k321/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/irfy2k321/Leetcode-progress/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/irfy2k321/Leetcode-progress/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/irfy2k321/Leetcode-progress/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/irfy2k321/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/irfy2k321/Leetcode-progress/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/irfy2k321/Leetcode-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/irfy2k321/Leetcode-progress/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/irfy2k321/Leetcode-progress/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/irfy2k321/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
