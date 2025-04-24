@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/irfy2k321/Leetcode-progress/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/irfy2k321/Leetcode-progress/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/irfy2k321/Leetcode-progress/tree/master/2846-robot-collisions) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/irfy2k321/Leetcode-progress/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/irfy2k321/Leetcode-progress/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/irfy2k321/Leetcode-progress/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/irfy2k321/Leetcode-progress/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/irfy2k321/Leetcode-progress/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/irfy2k321/Leetcode-progress/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Tree
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/irfy2k321/Leetcode-progress/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
 |  |
