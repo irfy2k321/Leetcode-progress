@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/irfy2k321/Leetcode-progress/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/irfy2k321/Leetcode-progress/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1894-merge-strings-alternately](https://github.com/irfy2k321/Leetcode-progress/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/irfy2k321/Leetcode-progress/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/irfy2k321/Leetcode-progress/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2389-design-a-text-editor](https://github.com/irfy2k321/Leetcode-progress/tree/master/2389-design-a-text-editor) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/irfy2k321/Leetcode-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1894-merge-strings-alternately](https://github.com/irfy2k321/Leetcode-progress/tree/master/1894-merge-strings-alternately) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/irfy2k321/Leetcode-progress/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Dynamic Programming
 |  |
