@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/irfy2k321/Leetcode-progress/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/irfy2k321/Leetcode-progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/irfy2k321/Leetcode-progress/tree/master/0342-power-of-four) |
+| [3201-distribute-candies-among-children-ii](https://github.com/irfy2k321/Leetcode-progress/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -272,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irfy2k321/Leetcode-progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/irfy2k321/Leetcode-progress/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/irfy2k321/Leetcode-progress/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
