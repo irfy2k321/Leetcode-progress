@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/irfy2k321/Leetcode-progress/tree/master/0135-candy) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/irfy2k321/Leetcode-progress/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/irfy2k321/Leetcode-progress/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Array
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/irfy2k321/Leetcode-progress/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/irfy2k321/Leetcode-progress/tree/master/0169-majority-element) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
 | [1364-tuple-with-same-product](https://github.com/irfy2k321/Leetcode-progress/tree/master/1364-tuple-with-same-product) |
