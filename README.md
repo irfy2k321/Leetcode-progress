@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/irfy2k321/Leetcode-progress/tree/master/0169-majority-element) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
 | [1364-tuple-with-same-product](https://github.com/irfy2k321/Leetcode-progress/tree/master/1364-tuple-with-same-product) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/irfy2k321/Leetcode-progress/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/irfy2k321/Leetcode-progress/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/irfy2k321/Leetcode-progress/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/irfy2k321/Leetcode-progress/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/irfy2k321/Leetcode-progress/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/irfy2k321/Leetcode-progress/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/irfy2k321/Leetcode-progress/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Backtracking
 |  |
 | ------- |
