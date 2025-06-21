@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/irfy2k321/Leetcode-progress/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/irfy2k321/Leetcode-progress/tree/master/0135-candy) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/irfy2k321/Leetcode-progress/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/irfy2k321/Leetcode-progress/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/irfy2k321/Leetcode-progress/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/irfy2k321/Leetcode-progress/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/irfy2k321/Leetcode-progress/tree/master/0169-majority-element) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/irfy2k321/Leetcode-progress/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irfy2k321/Leetcode-progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0061-rotate-list) |
