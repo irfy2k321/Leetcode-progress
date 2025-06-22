@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/irfy2k321/Leetcode-progress/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/irfy2k321/Leetcode-progress/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/irfy2k321/Leetcode-progress/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/irfy2k321/Leetcode-progress/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2389-design-a-text-editor](https://github.com/irfy2k321/Leetcode-progress/tree/master/2389-design-a-text-editor) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/irfy2k321/Leetcode-progress/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/irfy2k321/Leetcode-progress/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2389-design-a-text-editor](https://github.com/irfy2k321/Leetcode-progress/tree/master/2389-design-a-text-editor) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/irfy2k321/Leetcode-progress/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/irfy2k321/Leetcode-progress/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
