@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/irfy2k321/Leetcode-progress/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/irfy2k321/Leetcode-progress/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/irfy2k321/Leetcode-progress/tree/master/2472-build-a-matrix-with-conditions) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/irfy2k321/Leetcode-progress/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/irfy2k321/Leetcode-progress/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/irfy2k321/Leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1894-merge-strings-alternately](https://github.com/irfy2k321/Leetcode-progress/tree/master/1894-merge-strings-alternately) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/irfy2k321/Leetcode-progress/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Dynamic Programming
 |  |
