@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/irfy2k321/Leetcode-progress/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/irfy2k321/Leetcode-progress/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/irfy2k321/Leetcode-progress/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/irfy2k321/Leetcode-progress/tree/master/0169-majority-element) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/irfy2k321/Leetcode-progress/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/irfy2k321/Leetcode-progress/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/irfy2k321/Leetcode-progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/irfy2k321/Leetcode-progress/tree/master/0342-power-of-four) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/irfy2k321/Leetcode-progress/tree/master/3172-divisible-and-non-divisible-sums-difference) |
