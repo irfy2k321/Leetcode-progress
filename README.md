@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/irfy2k321/Leetcode-progress/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/irfy2k321/Leetcode-progress/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/irfy2k321/Leetcode-progress/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1603-running-sum-of-1d-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/1603-running-sum-of-1d-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/irfy2k321/Leetcode-progress/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/irfy2k321/Leetcode-progress/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -298,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/irfy2k321/Leetcode-progress/tree/master/3201-distribute-candies-among-children-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
