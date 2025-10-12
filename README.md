@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/irfy2k321/Leetcode-progress/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/irfy2k321/Leetcode-progress/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/irfy2k321/Leetcode-progress/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/irfy2k321/Leetcode-progress/tree/master/0342-power-of-four) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/irfy2k321/Leetcode-progress/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/irfy2k321/Leetcode-progress/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/irfy2k321/Leetcode-progress/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/1603-running-sum-of-1d-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
