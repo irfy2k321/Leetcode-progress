@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/irfy2k321/Leetcode-progress/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/irfy2k321/Leetcode-progress/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/irfy2k321/Leetcode-progress/tree/master/0198-house-robber) |
+| [0740-delete-and-earn](https://github.com/irfy2k321/Leetcode-progress/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/0747-min-cost-climbing-stairs) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
 | [1364-tuple-with-same-product](https://github.com/irfy2k321/Leetcode-progress/tree/master/1364-tuple-with-same-product) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/irfy2k321/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0726-number-of-atoms](https://github.com/irfy2k321/Leetcode-progress/tree/master/0726-number-of-atoms) |
+| [0740-delete-and-earn](https://github.com/irfy2k321/Leetcode-progress/tree/master/0740-delete-and-earn) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/irfy2k321/Leetcode-progress/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/irfy2k321/Leetcode-progress/tree/master/1207-delete-nodes-and-return-forest) |
 | [1364-tuple-with-same-product](https://github.com/irfy2k321/Leetcode-progress/tree/master/1364-tuple-with-same-product) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/irfy2k321/Leetcode-progress/tree/master/0095-unique-binary-search-trees-ii) |
 | [0198-house-robber](https://github.com/irfy2k321/Leetcode-progress/tree/master/0198-house-robber) |
+| [0740-delete-and-earn](https://github.com/irfy2k321/Leetcode-progress/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/irfy2k321/Leetcode-progress/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/irfy2k321/Leetcode-progress/tree/master/1236-n-th-tribonacci-number) |
