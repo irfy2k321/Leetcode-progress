@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/irfy2k321/Leetcode-progress/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/irfy2k321/Leetcode-progress/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/irfy2k321/Leetcode-progress/tree/master/1236-n-th-tribonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/irfy2k321/Leetcode-progress/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/irfy2k321/Leetcode-progress/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/irfy2k321/Leetcode-progress/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
