@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/irfy2k321/Leetcode-progress/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2389-design-a-text-editor](https://github.com/irfy2k321/Leetcode-progress/tree/master/2389-design-a-text-editor) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/irfy2k321/Leetcode-progress/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3606-coupon-code-validator](https://github.com/irfy2k321/Leetcode-progress/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/irfy2k321/Leetcode-progress/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/irfy2k321/Leetcode-progress/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3606-coupon-code-validator](https://github.com/irfy2k321/Leetcode-progress/tree/master/3606-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/irfy2k321/Leetcode-progress/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/irfy2k321/Leetcode-progress/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/irfy2k321/Leetcode-progress/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3606-coupon-code-validator](https://github.com/irfy2k321/Leetcode-progress/tree/master/3606-coupon-code-validator) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/irfy2k321/Leetcode-progress/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/irfy2k321/Leetcode-progress/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/irfy2k321/Leetcode-progress/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3606-coupon-code-validator](https://github.com/irfy2k321/Leetcode-progress/tree/master/3606-coupon-code-validator) |
 ## Tree
 |  |
 | ------- |
