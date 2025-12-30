@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/irfy2k321/Leetcode-progress/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/irfy2k321/Leetcode-progress/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0975-range-sum-of-bst) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/irfy2k321/Leetcode-progress/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/irfy2k321/Leetcode-progress/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/irfy2k321/Leetcode-progress/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/irfy2k321/Leetcode-progress/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/irfy2k321/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/irfy2k321/Leetcode-progress/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Backtracking
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/irfy2k321/Leetcode-progress/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/irfy2k321/Leetcode-progress/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/irfy2k321/Leetcode-progress/tree/master/1236-n-th-tribonacci-number) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/irfy2k321/Leetcode-progress/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
